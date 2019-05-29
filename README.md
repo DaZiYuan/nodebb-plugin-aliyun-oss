@@ -1,3 +1,7 @@
+使用前先用阿里的demo测试，确保oss设置正确。
+https://github.com/ali-sdk/ali-oss/tree/master/example
+
+
 # NodeBB Aliyun OSS Plugin
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fziofat%2Fnodebb-plugin-ali-oss.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fziofat%2Fnodebb-plugin-ali-oss?ref=badge_shield)
 
